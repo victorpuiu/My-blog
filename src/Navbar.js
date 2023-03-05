@@ -3,7 +3,7 @@ const Navbar = () => {
 
     return (
         <nav className="navbar">
-            <h1>The React Blog</h1>
+            <h1>Stef Blog</h1>
             <div className="links">
                 <a href="/">Home</a>
                 <a href="/create" style={{
